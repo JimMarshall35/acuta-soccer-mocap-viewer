@@ -20,6 +20,7 @@ MocapNode::MocapNode(const glm::vec3& pos)
 
 void MocapNode::UpdateWorldTransform()
 {
+    // half implemented, not tested, not sure if right, eventually will create hierarchy out of motion capture points for easy manipulation
     if (_isDirty) {
         UpdateLocalTransform();
         if (_parent != nullptr) {

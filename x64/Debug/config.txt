@@ -1,0 +1,3 @@
+SourceEndiannessReversed 1
+BaseMocapFilesDirectory C:\Users\james.marshall\source\repos\ActuaMocap\ActuaMocap\mocaps
+Theme Light

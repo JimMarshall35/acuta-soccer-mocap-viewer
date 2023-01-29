@@ -1,0 +1,4 @@
+SourceEndiannessReversed 1
+BaseMocapFilesDirectory C:\Users\james.marshall\source\repos\ActuaMocap\acuta-soccer-mocap-viewer\ActuaMocap\mocaps
+Theme Light
+Font C:\Users\james.marshall\source\repos\ActuaMocap\ActuaMocap\acuta-soccer-mocap-viewer\fonts\OpenSans-Regular.ttf
